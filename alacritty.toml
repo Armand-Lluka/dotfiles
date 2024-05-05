@@ -1,8 +1,13 @@
+import = ["~/.config/alacritty/themes/themes/gruvbox_dark.toml"]
+
 [font]
-size = 35
+size = 18
+
+[font.normal]
+family = "Fira Code"
 
 [window]
-decorations = "none"
+# decorations = "none"
 
 [window.padding]
 x = 7
