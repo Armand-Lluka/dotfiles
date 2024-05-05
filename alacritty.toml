@@ -1,0 +1,9 @@
+[font]
+size = 35
+
+[window]
+decorations = "none"
+
+[window.padding]
+x = 7
+y = 0
