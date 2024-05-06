@@ -7,7 +7,7 @@ size = 18
 family = "Fira Code"
 
 [window]
-# decorations = "none"
+decorations = "none"
 
 [window.padding]
 x = 7

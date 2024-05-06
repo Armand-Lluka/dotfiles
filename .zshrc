@@ -120,7 +120,7 @@ export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 
 alias zconf="code ~/.zshrc"
-alias fetchmaster= "git fetch origin master:master"
+alias fm= "git fetch origin master:master"
 
 # python
 export VIRTUALENVWRAPPER_PYTHON='/usr/bin/python3'
