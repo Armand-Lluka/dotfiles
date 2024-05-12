@@ -44,3 +44,5 @@ yabai -m rule --add app="^Finder$" manage=off
 yabai -m rule --add app="^iTerm2$" manage=off
 yabai -m rule --add app="^Arc$" manage=off
 yabai -m rule --add app="^Alacritty$" manage=off
+yabai -m rule --add app="^Spotify$" manage=off
+yabai -m rule --add app="^Visual Studio Code$" manage=off
