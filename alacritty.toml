@@ -13,4 +13,10 @@ decorations = "none"
 
 [window.padding]
 x = 7
-y = 0
+y = 7
+
+[keyboard]
+bindings = [
+  # { key = "C", mods = "Control", action = "Copy" },
+  { key = "V", mods = "Control", action = "Paste" },
+]

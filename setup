@@ -11,6 +11,7 @@ ln -sf "$PWD/.zshrc" "$HOME"/.zshrc
 ln -sf "$PWD/skhdrc" "$XDG_CONFIG_HOME"/skhd/skhdrc
 ln -sf "$PWD/yabai/yabairc" "$XDG_CONFIG_HOME"/yabai/yabairc
 ln -sf "$PWD/.tmux.conf" "$HOME"/.tmux.conf
+ln -sf "$PWD/nvim" "$XDG_CONFIG_HOME"/nvim
 
 # only clone the repo if it doesn't exist
 [ -d "$XDG_CONFIG_HOME"/alacritty/themes ] ||
